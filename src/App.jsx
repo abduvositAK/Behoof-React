@@ -6,8 +6,7 @@ import ItemProduct from './componenets/Product/ItemProduct'
 import Adverting from './componenets/Addvert/Advert'
 import NewProductItem from './componenets/New-Product/NewProduct'
 import Previewing from './componenets/Preview/Preview'
-import Footering from './componenets/footer/Footering'
-
+import Footering from './componenets/Footer/Footering'
 const App = () => {
   return (
     <>
